@@ -14,7 +14,6 @@ import com.dvsuperior.dsmovie.services.ScoreService;
 @RequestMapping(value="/scores")
 public class ScoreController {
 
-
 	@Autowired
 	private ScoreService service;
 	
